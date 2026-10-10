@@ -9,8 +9,8 @@ import struct
 def pack_big(source_dir, output_big_path):
     files_to_pack = []
     
-    # Collect all files inside Data and Art
-    for sub in ['Data', 'Art']:
+    # Collect all files inside Data, Art, and Audio
+    for sub in ['Data', 'Art', 'Audio']:
         full_sub = os.path.join(source_dir, sub)
         if os.path.exists(full_sub):
             for root, _, files in os.walk(full_sub):
