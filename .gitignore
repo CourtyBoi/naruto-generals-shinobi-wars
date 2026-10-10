@@ -1,0 +1,8 @@
+# C&C Generals Modding Git Ignore
+Thumbs.db
+Desktop.ini
+*.bak
+*.tmp
+*.log
+.DS_Store
+*.orig
