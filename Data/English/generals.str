@@ -1,0 +1,298 @@
+// -----------------------------------------------------------------------------
+// COMMAND & CONQUER GENERALS: SHINOBI WARS
+// generals.str - Complete English UI, Unit & Ability Localization Strings
+// -----------------------------------------------------------------------------
+
+// --- FACTION TITLES ---
+GUI:FactionKonoha
+"Hidden Leaf Village (Konohagakure)"
+End
+
+GUI:FactionSuna
+"Hidden Sand Village (Sunagakure)"
+End
+
+GUI:FactionKumo
+"Hidden Cloud Village (Kumogakure)"
+End
+
+GUI:FactionAkatsuki
+"The Akatsuki Syndicate"
+End
+
+// --- KONOHAGAKURE STRUCTURES ---
+CONTROLBAR:ConstructKonohaHokageOffice
+"Hokage Residence"
+End
+CONTROLBAR:ToolTipConstructKonohaHokageOffice
+"Central command post of the Hidden Leaf Village. Trains Builder Shinobi, provides radar, and coordinates General Powers."
+End
+
+CONTROLBAR:ConstructKonohaChakraShrine
+"Chakra Shrine"
+End
+CONTROLBAR:ToolTipConstructKonohaChakraShrine
+"Generates vital Chakra flow required to sustain base structures, barriers, and summoning pacts."
+End
+
+CONTROLBAR:ConstructKonohaNinjaAcademy
+"Shinobi Academy"
+End
+CONTROLBAR:ToolTipConstructKonohaNinjaAcademy
+"Trains Genin squads, clan specialists, courier runners, and field medics."
+End
+
+CONTROLBAR:ConstructKonohaSummoningGrounds
+"Clan Grounds & Summoning Dojo"
+End
+CONTROLBAR:ToolTipConstructKonohaSummoningGrounds
+"Recruits heavy clan bruisers (Akimichi), giant battle toads (Kuchiyose), and aerial ink beast bombers."
+End
+
+CONTROLBAR:ConstructKonohaMissionDepot
+"Daimyo Mission Outpost"
+End
+CONTROLBAR:ToolTipConstructKonohaMissionDepot
+"Processes mission scrolls brought back by Courier Shinobi, generating Ryo revenue."
+End
+
+CONTROLBAR:ConstructKonohaFireWallDefense
+"Fire Barrier Watchtower"
+End
+CONTROLBAR:ToolTipConstructKonohaFireWallDefense
+"Defensive watchtower unleashing roaring Fire Style: Great Fireballs against ground and air hostiles."
+End
+
+// --- KONOHAGAKURE UNITS ---
+CONTROLBAR:RecruitKonohaGeninBuilder
+"Earth Style Builder"
+End
+CONTROLBAR:ToolTipRecruitKonohaGeninBuilder
+"Expedient worker utilizing Earth Style and wood carpentry to construct and repair village structures."
+End
+
+CONTROLBAR:RecruitKonohaCourierNinja
+"Courier Shinobi"
+End
+CONTROLBAR:ToolTipRecruitKonohaCourierNinja
+"Swift runner assigned to collect mission bounty scrolls from neutral outposts and deliver Ryo to the village."
+End
+
+CONTROLBAR:RecruitKonohaGeninSquad
+"Leaf Genin Squad"
+End
+CONTROLBAR:ToolTipRecruitKonohaGeninSquad
+"Three-ninja fireteam armed with steel kunai. Can be upgraded with explosive paper bombs and can capture neutral buildings."
+End
+
+CONTROLBAR:RecruitKonohaHyugaSpecialist
+"Hyuga Gentle Fist Master"
+End
+CONTROLBAR:ToolTipRecruitKonohaHyugaSpecialist
+"Elite melee taijutsu expert. Strikes tenketsu chakra points to paralyze enemy abilities and disable mechanical constructs."
+End
+
+CONTROLBAR:RecruitKonohaInuzukaScout
+"Inuzuka Hound Cavalry"
+End
+CONTROLBAR:ToolTipRecruitKonohaInuzukaScout
+"High-speed cavalry scout paired with a loyal ninja hound. Uses Fang Over Fang (Gatsūga) to harass enemy flanks."
+End
+
+CONTROLBAR:RecruitKonohaAkimichiBruiser
+"Akimichi Human Bullet Tank"
+End
+CONTROLBAR:ToolTipRecruitKonohaAkimichiBruiser
+"Heavily armored warrior utilizing the Multi-Size Technique. Rolls with immense kinetic force, crushing regular infantry and ramming structures."
+End
+
+CONTROLBAR:SummonGiantBattleToad
+"Kuchiyose: Giant Battle Toad"
+End
+CONTROLBAR:ToolTipSummonGiantBattleToad
+"Colossal toad summon clad in iron plating with twin cleaver blades and a high-pressure water bullet cannon. Can leap over obstacles."
+End
+
+CONTROLBAR:CreateInkBirdBomber
+"Super Beast Scroll: Ink Birds"
+End
+CONTROLBAR:ToolTipCreateInkBirdBomber
+"Living ink raptors painted upon special scrolls. Executes high-speed aerial bombing runs with explosive tags."
+End
+
+CONTROLBAR:SummonGamabunta
+"Chief Toad Gamabunta"
+End
+CONTROLBAR:ToolTipSummonGamabunta
+"The legendary Toad Boss of Mount Myōboku. Devastating water cannon blast, giant broadsword cleave, and massive shockwave stomp."
+End
+
+CONTROLBAR:RecruitKonohaHeroKakashi
+"Hatake Kakashi"
+End
+CONTROLBAR:ToolTipRecruitKonohaHeroKakashi
+"The Copy Ninja. Possesses the Sharingan to reveal hidden units, the armor-piercing Raikiri, and the space-time jutsu Kamui."
+End
+
+// --- SUNAGAKURE STRUCTURES & UNITS ---
+CONTROLBAR:ConstructSunaKazekageOffice
+"Kazekage Headquarters"
+End
+CONTROLBAR:ConstructSunaChakraShrine
+"Desert Chakra Shrine"
+End
+CONTROLBAR:ConstructSunaShinobiAcademy
+"Sand Shinobi Academy"
+End
+CONTROLBAR:ConstructSunaPuppetWorkshop
+"Puppet Workshop & Foundry"
+End
+CONTROLBAR:ConstructSunaGoldDustExtractor
+"Gold Dust Sifting Stash"
+End
+CONTROLBAR:ConstructSunaWindBarrierTower
+"Wind Scythe Turret"
+End
+
+CONTROLBAR:RecruitSunaPuppetBuilder
+"Puppet Craftsman"
+End
+CONTROLBAR:RecruitSunaCourierNinja
+"Sand Courier"
+End
+CONTROLBAR:RecruitSunaDesertGenin
+"Desert Genin Squad"
+End
+CONTROLBAR:RecruitSunaWindScytheSpecialist
+"Wind Scythe Artillery Team"
+End
+CONTROLBAR:ConstructSunaKarasuPuppet
+"Karasu (Crow) Puppet Platform"
+End
+CONTROLBAR:ConstructSunaSanshouoCarrier
+"Sanshōuo (Salamander) Carrier"
+End
+CONTROLBAR:ConstructSunaSandGolem
+"Sand Golem Construct"
+End
+CONTROLBAR:RecruitSunaHeroGaara
+"Gaara of the Sand"
+End
+
+// --- RESEARCH & UPGRADES ---
+CONTROLBAR:ResearchPaperBomb
+"Research Explosive Paper Tags"
+End
+CONTROLBAR:ResearchByakuganMastery
+"Awaken Byakugan Eyes"
+End
+CONTROLBAR:ResearchSageChakra
+"Master Mount Myōboku Sage Chakra"
+End
+CONTROLBAR:ResearchPoisonCoating
+"Refine Neurotoxin Needle Coating"
+End
+CONTROLBAR:ResearchIronSandReinforcement
+"Infuse Magnetic Iron Sand"
+End
+
+UPGRADE:KonohaPaperBomb
+"Explosive Paper Tags"
+End
+UPGRADE:KonohaByakuganMastery
+"Byakugan Mastery"
+End
+UPGRADE:KonohaSageChakra
+"Sage Mode Chakra"
+End
+UPGRADE:SunaPoisonCoating
+"Poison Needle Coating"
+End
+UPGRADE:SunaIronSandReinforcement
+"Iron Sand Armor"
+End
+
+// --- SCIENCES & GENERAL POWERS ---
+SCIENCE:KonohaRank1_Title
+"Genin Rank: Shadow Clone Reconnaissance"
+End
+SCIENCE:KonohaRank1_Desc
+"Deploy temporary shadow clones across target terrain to reveal enemy fog of war."
+End
+
+SCIENCE:ShadowCloneRecon
+"Shadow Clone Recon"
+End
+SCIENCE:ShadowCloneRecon_Desc
+"Summon two stealth scout clones to map out hostile movements."
+End
+
+SCIENCE:KonohaRank3_Title
+"Chunin Rank: Flying Thunder God Jutsu"
+End
+SCIENCE:KonohaRank3_Desc
+"Minato's space-time teleportation formula. Instantly teleports a squad across the battlefield."
+End
+
+SCIENCE:FlyingThunderGod
+"Flying Thunder God Teleport"
+End
+SCIENCE:FlyingThunderGod_Desc
+"Warp selected friendly shinobi directly to the marked location."
+End
+
+SCIENCE:KonohaRank5_Title
+"Jonin Rank: Mokuton Deep Forest Emergence"
+End
+SCIENCE:KonohaRank5_Desc
+"The legendary Wood Style Kinjutsu of Hashirama Senju. Giant roots erupt from the earth, flattening enemy bases."
+End
+
+SCIENCE:DeepForestEmergence
+"Deep Forest Emergence"
+End
+SCIENCE:DeepForestEmergence_Desc
+"Summon colossal living forest roots to entangle and crush enemy structures."
+End
+
+SCIENCE:SunaRank1_Title
+"Genin Rank: Blinding Sandstorm"
+End
+SCIENCE:SunaRank1_Desc
+"Shrouds an area in swirling desert sands, blinding enemy weapons and providing friendly concealment."
+End
+
+SCIENCE:Sandstorm
+"Blinding Sandstorm"
+End
+SCIENCE:Sandstorm_Desc
+"Disables enemy targeting optics and stealths friendly units in the area."
+End
+
+SCIENCE:SunaRank3_Title
+"Chunin Rank: Iron Sand Drizzle"
+End
+SCIENCE:SunaRank3_Desc
+"Rains needle-sharp magnetized iron sand from above, piercing armor and destroying vehicles."
+End
+
+SCIENCE:IronSandDrizzle
+"Iron Sand Drizzle"
+End
+SCIENCE:IronSandDrizzle_Desc
+"Bombards the target sector with piercing metallic needles."
+End
+
+SCIENCE:SunaRank5_Title
+"Kazekage Rank: Desert Imperial Funeral"
+End
+SCIENCE:SunaRank5_Desc
+"Gaara's colossal seismic collapse. Grinds all structures and units in the target zone to dust."
+End
+
+SCIENCE:DesertImperialFuneral
+"Desert Imperial Funeral (Sabaku Taisō)"
+End
+SCIENCE:DesertImperialFuneral_Desc
+"Pulverizes an entire base sector beneath seismic sand pressure."
+End
